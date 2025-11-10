@@ -6,7 +6,7 @@
 ---
 
 ## **Understand the Role of AI Engineer**
-- `AI Engineer` ≈ `Machine Learning Expertise` + `Broad AI Knowledge` + `Deployment and Scalability Skills` + `Interdisciplinary Collaboration` 😊
+- `AI Engineer` ≈ `Machine Learning Expertise` + `Broad AI Knowledge` + `Deployment and Scalability Skills` + `Interdisciplinary Collaboration` 
 - [Must Watch This Video!](https://www.youtube.com/watch?v=0I0eRhg9ReE)
 
 ### **What does an AI Engineer do?**
