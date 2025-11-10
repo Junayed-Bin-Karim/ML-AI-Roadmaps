@@ -1,4 +1,4 @@
-# AI Agent Developer Roadmap in 2025/26
+# AI Agent Developer Roadmap 
 
 > **Job Category:** `Emerging & High-Demand`  
 > **Best for:** `AI Engineers`, `Software Developers`, `Data Scientists`, `Automation Enthusiasts`.
@@ -133,9 +133,12 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 ---
 - [Agentic AI with LLMs](https://aiquest.org/agentic-ai-with-llms/)
 
-## About
-**Author:** [Rashedul Alam Shakil](https://www.linkedin.com/in/kmrashedulalam/)  
-Industry Expert | Educator | AI Practitioner  
+## Author
+
+**Md Junayed Bin Karim**  
+Founder, Junayed Academy  
+Website: [meetjunayed.netlify.app](https://meetjunayed.netlify.app)  
+LinkedIn: [linkedin.com/in/junayed-bin-karim-47b755270](https://linkedin.com/in/junayed-bin-karim-47b755270)    
 
 ---
 
