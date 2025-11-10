@@ -43,5 +43,6 @@ This repository is licensed under MIT License.
 
 **Md Junayed Bin Karim**  
 Founder, Junayed Academy  
-Website: meetjunayed.netlify.app  
-LinkedIn: linkedin.com/in/junayed-bin-karim-47b755270  
+Website: [meetjunayed.netlify.app](https://meetjunayed.netlify.app)  
+LinkedIn: [linkedin.com/in/junayed-bin-karim-47b755270](https://linkedin.com/in/junayed-bin-karim-47b755270)    
+
