@@ -1,4 +1,4 @@
-# Big Data Engineer Roadmap 2025/26
+# Big Data Engineer Roadmap 
 
 - Job Category: `Entry level`
 
@@ -278,10 +278,13 @@ By following this roadmap step-by-step, you’ll be well-prepared to excel as a 
 
 *`Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
 
-## About the Author
-**Rashedul Alam Shakil**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Industry Expert | Educator
+## Author
+
+**Md Junayed Bin Karim**  
+Founder, Junayed Academy  
+Website: [meetjunayed.netlify.app](https://meetjunayed.netlify.app)  
+LinkedIn: [linkedin.com/in/junayed-bin-karim-47b755270](https://linkedin.com/in/junayed-bin-karim-47b755270)    
+
 
 # Other Roadmaps
 - [Read Now](https://github.com/rashakil-ds/Roadmap-Docs)
