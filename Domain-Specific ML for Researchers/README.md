@@ -12,7 +12,7 @@ This roadmap is designed for `domain-specific research`, so you don’t need to 
 - Time Series Analysis
 - Generative AI with Pretrained Models
   
-You can dive deep into your selected area without worrying about unrelated concepts from other domains. This specificity will save time and enhance your expertise in the chosen field. Best of luck 😊
+You can dive deep into your selected area without worrying about unrelated concepts from other domains. This specificity will save time and enhance your expertise in the chosen field. Best of luck 
 
 ---
 
@@ -282,10 +282,13 @@ I am not a professional researcher but have a working knowledge of Machine Learn
 
 ---
 
-## About the Author
-**Rashedul Alam Shakil**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Industry Expert | Educator
+## Author
+
+**Md Junayed Bin Karim**  
+Founder, Junayed Academy  
+Website: [meetjunayed.netlify.app](https://meetjunayed.netlify.app)  
+LinkedIn: [linkedin.com/in/junayed-bin-karim-47b755270](https://linkedin.com/in/junayed-bin-karim-47b755270)    
+
 
 ---
 
