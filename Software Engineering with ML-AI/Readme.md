@@ -4,11 +4,11 @@
 
 ---
 
-**🔴 Software Engineering with Machine Learning = Software Engineering Skills + Machine Learning & Deep Learning Skills**
+** Software Engineering with Machine Learning = Software Engineering Skills + Machine Learning & Deep Learning Skills**
 
 ---
 
-### ছোট করে একটা **রোডম্যাপ** দেয়ার চেস্টা করবো। যদি কারও উপকার হয় 🙂
+### ছোট করে একটা **রোডম্যাপ** দেয়ার চেস্টা করবো। যদি কারও উপকার হয় 
 
 **১।** এই ট্র্যাকে আসতে হলে প্রথমেই দরকার শক্ত *Python* ব্যাকগ্রাউন্ড। Functions, OOP, error handling, এবং data structures (list, dict, set, tuple) ভালোভাবে বুঝে নিতে হবে। এরপর প্রয়োজন ওয়েব ডেভেলপমেন্ট স্কিল, বিশেষ করে Django বা FastAPI শেখা, যেগুলোর মাধ্যমে API তৈরি করা যায়। Django-তে views, models, templates এবং REST API development (DRF) শেখার পাশাপাশি Authentication, Permissions আর ORM ভালোভাবে আয়ত্তে আনতে হবে অবশ্যই।
 
@@ -138,7 +138,10 @@ Software Engineering এর পার্টটুকর  জন্য aiquest �
 #studymart
 
 ----
-## About the Author
-**Rashedul Alam Shakil**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Industry Expert | Educator
+## Author
+
+**Md Junayed Bin Karim**  
+Founder, Junayed Academy  
+Website: [meetjunayed.netlify.app](https://meetjunayed.netlify.app)  
+LinkedIn: [linkedin.com/in/junayed-bin-karim-47b755270](https://linkedin.com/in/junayed-bin-karim-47b755270)    
+
