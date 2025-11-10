@@ -1,4 +1,4 @@
-# NLP Engineer Roadmap 2025/26
+# NLP Engineer Roadmap 
 
 - Job Type: `Domain Specific`, `Linguists`
 - Opportunity: `Less Job Circular`
@@ -190,10 +190,12 @@ By following this roadmap, you’ll develop the skills needed to become a succes
 
 ---
 
-## About the Author
-**Rashedul Alam Shakil**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Industry Expert | Educator
+## Author
+
+**Md Junayed Bin Karim**  
+Founder, Junayed Academy  
+Website: [meetjunayed.netlify.app](https://meetjunayed.netlify.app)  
+LinkedIn: [linkedin.com/in/junayed-bin-karim-47b755270](https://linkedin.com/in/junayed-bin-karim-47b755270)    
 
 ---
 
