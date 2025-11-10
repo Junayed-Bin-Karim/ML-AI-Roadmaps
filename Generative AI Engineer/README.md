@@ -1,5 +1,5 @@
 
-# Generative AI (Gen AI) Engineer Roadmap 2025/26
+# Generative AI (Gen AI) Engineer Roadmap 
 
 - Job Category: `Very High`
 - Best for `Software Engineers` and `Machine Learning Experts`.
@@ -7,7 +7,7 @@
 ---
 
 ## **Understand the Role of a Generative AI Engineer**
-- `Gen AI Engineer` ≈ `NLP and Computer Vision Skills` + `Generative Models Expertise` + `Deployment and Optimization` + `GenAI Applications` 😊
+- `Gen AI Engineer` ≈ `NLP and Computer Vision Skills` + `Generative Models Expertise` + `Deployment and Optimization` + `GenAI Applications` 
 
 ### **What does a Generative AI Engineer do?**
 - Develop, fine-tune, and deploy `generative` models (GPT, DALL-E, Stable Diffusion).
@@ -333,10 +333,13 @@ Following this roadmap step-by-step will give you the skills needed to succeed a
 
 *`Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
 
-## About the Author
-**Rashedul Alam Shakil**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Industry Expert | Educator
+## Author
+
+**Md Junayed Bin Karim**  
+Founder, Junayed Academy  
+Website: [meetjunayed.netlify.app](https://meetjunayed.netlify.app)  
+LinkedIn: [linkedin.com/in/junayed-bin-karim-47b755270](https://linkedin.com/in/junayed-bin-karim-47b755270)    
+
 
 ---
 
