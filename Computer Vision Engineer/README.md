@@ -221,8 +221,13 @@ Generative AI enables machines to create, transform, and understand visual conte
 
 ---
 
-**Author:** [Rashedul Alam Shakil](https://www.linkedin.com/in/kmrashedulalam/)  
-Industry Expert | Educator  
+## Author
+
+**Md Junayed Bin Karim**  
+Founder, Junayed Academy  
+Website: [meetjunayed.netlify.app](https://meetjunayed.netlify.app)  
+LinkedIn: [linkedin.com/in/junayed-bin-karim-47b755270](https://linkedin.com/in/junayed-bin-karim-47b755270)    
+
 
 ---
 
