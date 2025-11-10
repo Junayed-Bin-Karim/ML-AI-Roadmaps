@@ -1,4 +1,4 @@
-# AI Engineer Roadmap 2025/26
+# AI Engineer Roadmap 
 
 - Job Category: `High`
 - Best for `Software Engineers`, `Data Scientists`, and `Robotics Enthusiasts`.
@@ -381,10 +381,7 @@ This repository is continually updated based on the top `job postings` on **Link
 
 ---
 
-## About the Author
-**Rashedul Alam Shakil**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Industry Expert | Educator
+
 
 ---
 
